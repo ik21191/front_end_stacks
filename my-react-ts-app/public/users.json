@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1001,
+    "name": "Imran Khan",
+    "email": "imran@gmail.com",
+    "company": { 
+        "name": "Local Test Org" 
+    }
+  },
+  {
+    "id": 1002,
+    "name": "Vinay Kumar",
+    "email": "vinay@example.com",
+    "company": { 
+        "name": "XYZ Solutions" 
+    }
+  },
+  {
+    "id": 1003,
+    "name": "Rahul Kumar",
+    "email": "rahul@test.com",
+    "company": { 
+        "name": "Test Pvt Ltd." 
+    }
+  }
+]
